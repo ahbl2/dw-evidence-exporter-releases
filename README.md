@@ -2,6 +2,10 @@
 
 This **public repository contains release distribution metadata and installer binaries only**. Development, source code, security reports and case evidence are kept separately in the **private** development repository.
 
+## Current availability
+
+**Beta v0.3.0-beta.1** is available for isolated testing. **No Stable release has been approved or published yet.** Stable is still the default client setting and will not download Beta releases without explicit opt-in. These unsigned pilot installers are not approved for real case evidence or department production service installation.
+
 ## Channels
 
 - **Stable (default):** Only explicitly approved and signed production-ready versions tagged `vMAJOR.MINOR.PATCH`, published as non-prereleases.
