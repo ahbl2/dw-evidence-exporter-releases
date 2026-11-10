@@ -1,0 +1,11 @@
+# This public repository intentionally contains NO application source or secrets.
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.db
+*.nov
+*.mkv
+*.mp4
+*.env
